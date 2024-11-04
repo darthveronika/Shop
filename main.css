@@ -1,0 +1,684 @@
+.logo {
+    width: 333px;
+    height: 86px;
+    top: 12px;
+    left: 4px;
+    gap: 0px;
+    opacity: 0px;
+    color: black;
+    font-family: Roboto;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 86.4px;
+    text-align: left;
+    text-decoration: none;
+    position: relative;
+
+}
+
+.site-navigation {
+    position: absolute;
+    width: 98px;
+    height: 108px;
+    top: 12px;
+    left: 963px;
+    gap: 8px;
+    opacity: 0px;
+    text-decoration: none;
+    color: black;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.09px;
+text-align: left;
+}
+
+
+.number {
+    width: 140px;
+    height: 21px;
+    top: 12px;
+    left: 1268px;
+    gap: 0px;
+    opacity: 0px;    
+    color: black;
+    text-decoration: none;
+    position: absolute;
+}
+
+main {
+    position: absolute;
+    width: 1376px;
+height: 1107px;
+top: 160px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+h1 {
+    position: absolute;
+
+    width: 610px;
+    height: 172px;
+    top: 51px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 86.4px;
+    text-align: left;
+
+}
+
+.description {
+    position: absolute;
+
+    width: 445px;
+    height: 84px;
+    top: 458px;
+    left: 32px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+
+.order {
+    position: absolute;
+
+    width: 164px;
+    height: 23px;
+    top: 395px;
+    left: 1244px;
+    gap: 2px;
+    opacity: 0px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.09px;
+text-align: left;
+justify-content: space-between;
+
+    color: black;
+}
+
+.sofa {
+    position: absolute;
+
+    width: 329px;
+height: 493px;
+top: 774px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+justify-content: space-between;
+
+}
+
+.room {
+    position: absolute;
+
+    width: 678px;
+height: 809px;
+top: 458px;
+left: 730px;
+gap: 0px;
+opacity: 0px;
+justify-content: space-between;
+
+}
+
+.block2 {
+    width: 1376px;
+height: 589px;
+top: 1387px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+h2 {
+    position: relative;
+
+    width: 562px;
+height: 198px;
+top: 1387px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Helvetica;
+font-size: 48px;
+font-weight: 400;
+line-height: 66.24px;
+text-align: left;
+
+}
+
+.text {
+    width: Fixed (679px)px;
+height: Hug (208px)px;
+top: 1416px;
+left: 729px;
+gap: 16px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+position: absolute;
+
+}
+
+.text > p {
+    width: 446px;
+}
+
+.paras {
+    position: absolute;
+    width: Fixed (678px)px;
+height: Hug (308px)px;
+top: 1668px;
+left: 730px;
+gap: 24px;
+opacity: 0px;
+
+}
+
+.paras h3 {
+    
+font-family: Helvetica;
+font-size: 36px;
+font-weight: 400;
+line-height: 49.68px;
+text-align: left;
+height: 50px;
+
+}
+
+.paras p {
+    width: 146px;
+height: 44px;
+gap: 0px;
+opacity: 0px;
+
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+
+}
+
+.experience {
+    width: 146px;
+height: 94px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.projs {
+    width: 117px;
+    height: 94p;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+
+.production {
+    width: 146px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+} 
+
+.block3 {
+    position: absolute;
+    width: 1376px;
+height: 980px;
+top: 2096px;
+left: 32px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.block3 h2 {
+    width: 562px;
+height: 66px;
+top: 2096px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Helvetica;
+font-size: 48px;
+font-weight: 400;
+line-height: 66.24px;
+text-align: left;
+position: relative;
+
+}
+
+.block3 p {
+    position: absolute;
+    width: 325px;
+height: 44px;
+top: 2118px;
+left: 734px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+
+}
+
+.block3 h3 {
+font-family: Helvetica;
+font-size: 36px;
+font-weight: 400;
+line-height: 49.68px;
+text-align: left;
+width: 328px;
+height: 100px;
+left: 731px;
+}
+
+.block3 span {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+width: 329px;
+height: auto;
+left: 1079px;
+}
+
+.idea {
+    width: 678px;
+height: 146px;
+top: 2206px;
+left: 730px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.tz {
+    width: 678px;
+height: 168px;
+top: 2376px;
+left: 730px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+
+}
+
+.comm {
+    width: 678px;
+height: 168px;
+top: 2568px;
+left: 730px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+
+}
+
+.prep {
+    position: absolute;
+    width: 678px;
+    height: 146px;
+    top: 2760px;
+    left: 730px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+.montaj {
+    position: absolute;
+    width: 678px;
+    height: 146px;
+    top: 2930px;
+    left: 730px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+.block4 {
+    position: absolute;
+    width: 1376px;
+height: 1278px;
+top: 3196px;
+left: 32px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.block4 h2 {
+    width: 562px;
+height: 66px;
+top: 3196px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Helvetica;
+font-size: 48px;
+font-weight: 400;
+line-height: 66.24px;
+text-align: left;
+position: absolute;
+}
+
+.tv {
+    width: 445px;
+height: 580px;
+top: 3294px;
+left: 32px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.kitchen {
+    width: 446px;
+height: 580px;
+top: 3294px;
+left: 497px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+
+}
+
+.library {
+    width: 445px;
+height: 580px;
+top: 3294px;
+left: 963px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+
+}
+
+.shelf {
+    width: 445px;
+height: 580px;
+top: 3894px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+
+}
+
+.bedroom {
+    width: 446px;
+height: 580px;
+top: 3894px;
+left: 497px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+
+}
+
+.cupboard {
+    width: 445px;
+height: 580px;
+top: 3894px;
+left: 963px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+
+}
+
+.block5 {
+    position: absolute;
+    width: 1376px;
+height: 425px;
+top: 4594px;
+left: 32px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+text-align: center;
+
+}
+
+.block5 h2 {
+    width: 562px;
+height: 66px;
+top: 4594px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Helvetica;
+font-size: 48px;
+font-weight: 400;
+line-height: 66.24px;
+text-align: left;
+position: absolute;
+}
+
+.block5 h3 {
+    width: 136px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+font-family: Helvetica;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.84px;
+text-align: center;
+position: relative;
+}
+
+.block5 p {
+    width: 365px;
+height: 110px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: center;
+position: relative;
+}
+
+.rev1 {
+    width: 445px;
+height: 327px;
+top: 4692px;
+left: 32px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position:absolute;
+text-align: center;
+}
+
+.rev2 {
+    width: 445px;
+height: 327px;
+top: 4692px;
+left: 497px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position:absolute;
+text-align: center;
+}
+
+.rev3 {
+    width: 445px;
+height: 327px;
+top: 4692px;
+left: 963px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position:absolute;
+text-align: center;
+}
+
+.block6 {
+    width: 1376px;
+height: 566px;
+top: 5139px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.letter {
+    width: 562px;
+height: 566px;
+top: 5139px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+/* .quests {
+    width: Hug (678px)px;
+height: Hug (120px)px;
+top: 5139px;
+left: 730px;
+gap: 32px;
+opacity: 0px;
+position: absolute;
+} */
+
+.block6 h2 {
+    width: 678px;
+height: 66px;
+top: 5139px;
+left: 730px;
+gap: 0px;
+opacity: 0px;
+font-family: Helvetica;
+font-size: 48px;
+font-weight: 400;
+line-height: 66.24px;
+text-align: left;
+position: absolute;
+}
+
+.quests p {
+    width: 297px;
+height: 22px;
+top: 5225px;
+left: 730px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+position: absolute;
+}
+
+.name {
+    width: Fixed (562px)px;
+height: Fixed (31px)px;
+top: 5331px;
+left: 730px;
+gap: 12px;
+opacity: 0px;
+position: absolute;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+
+}
+
+.email {
+    width: Fixed (562px)px;
+    height: Fixed (31px)px;
+    top: 5378px;
+    left: 730px;
+    gap: 12px;
+    opacity: 0px;
+    
+position: absolute;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+
+}
+.tel {
+    width: Fixed (562px)px;
+    height: Fixed (31px)px;
+    top: 5425px;
+    left: 730px;
+    gap: 12px;
+    opacity: 0px;
+    
+position: absolute;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+
+}
+
+.button {
+    width: Hug (176px)px;
+height: Hug (46px)px;
+top: 5480px;
+left: 730px;
+padding: 12px 20px 12px 20px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.apps {
+    width: Hug (250px)px;
+height: Hug (36px)px;
+top: 5566px;
+left: 730px;
+gap: 8px;
+opacity: 0px;
+position: absolute;
+}
+
+
